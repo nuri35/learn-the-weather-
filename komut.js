@@ -26,6 +26,6 @@ function wheatherinforun(){
 
 }
 
-//bunu dısarı neden sunduk cunku bu klosoru npm sıtesıne publısh ettık kullanıcı sadece burdakı fonskıyonu kullanarak ıslemı yapıcak
+
 module.exports = wheatherinforun;
 
